@@ -6,3 +6,7 @@ Answer: Data science could be applied to Machine learning. An example would be t
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merge integrates changes from one branch into another and Rebase rewrites your changes on the other branch.
+
+Q4: What are  you looking forward to this semester?
+Answer: I'm looking forward to how we can use Python to manipulate tables and also projects with SQL. I'm really interested in these  as it seems pretty fascinating.
+
