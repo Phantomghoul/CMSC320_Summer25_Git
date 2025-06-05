@@ -4,3 +4,5 @@ Answer: Git allows multiple developers to spontaneously view, modify and control
 Q2: What field could data science be applied to? Give an Example
 Answer: Data science could be applied to Machine learning. An example would be to train a machine learning outcome to generate data for a certain problem
 
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merge integrates changes from one branch into another and Rebase rewrites your changes on the other branch.
